@@ -1,0 +1,54 @@
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\bin\Debug\cbwork.exe.config
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\bin\Debug\cbwork.exe
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\bin\Debug\cbwork.pdb
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\bin\Debug\ChilkatDotNet4.dll
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\cbwork.exe
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\obj\x86\Debug\cbwork.pdb
+C:\Users\CB-SEM\Desktop\cb2\WindowsFormsApplication2\bin\Debug\Ionic.Zip.Reduced.dll
+F:\cb2\WindowsFormsApplication2\bin\Debug\cbwork.exe.config
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\cbwork.exe
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\cb2\WindowsFormsApplication2\bin\Debug\cbwork.exe
+F:\cb2\WindowsFormsApplication2\bin\Debug\cbwork.pdb
+F:\cb2\WindowsFormsApplication2\bin\Debug\ChilkatDotNet4.dll
+F:\cb2\WindowsFormsApplication2\bin\Debug\Ionic.Zip.Reduced.dll
+F:\cb2\WindowsFormsApplication2\obj\x86\Debug\cbwork.pdb
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\bin\Debug\cbwork.exe.config
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\cbwork.exe
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\cbwork.pdb
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\bin\Debug\cbwork.exe
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\bin\Debug\cbwork.pdb
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\bin\Debug\ChilkatDotNet4.dll
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\CB-SEM\Desktop\setup\WindowsFormsApplication2\bin\Debug\it\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\bin\Debug\cbwork.exe.config
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\obj\x86\Debug\cbwork.exe
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\obj\x86\Debug\cbwork.pdb
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\obj\x86\Debug\GenericMemoryMappedArray.resources
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\CB-SEM\Desktop\Tüm Programlar Kısa yol link yolu\setup\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
